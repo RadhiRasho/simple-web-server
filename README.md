@@ -1,15 +1,9 @@
 # simple-web-server
 
-To install dependencies:
+Explores implementation of a bare bones web server for educational purposes.
 
-```bash
-bun install
-```
+> *What I cannot create, I do not understand — Richard Feynman.*
 
-To run:
+## Resources Used
 
-```bash
-bun run index.js
-```
-
-This project was created using `bun init` in bun v1.1.34. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+- [Code Mentor](https://www.codementor.io/@ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji): Followed step by step
