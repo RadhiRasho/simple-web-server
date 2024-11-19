@@ -1,0 +1,15 @@
+{
+	"name": "simple-web-server",
+	"module": "index.ts",
+	"type": "module",
+	"devDependencies": {
+		"@types/bun": "latest",
+		"@types/node": "^22.9.1"
+	},
+	"peerDependencies": {
+		"typescript": "latest"
+	},
+	"scripts": {
+		"dev": "bun run --watch index.ts"
+	}
+}
